@@ -7,12 +7,17 @@
 4. Neuro-science & Psychology
 
 **Technologies**
+
 AI
+
 - Machine learning
 - Deep learning
 - Reinforcement learning
 - AGI 
+
 Blockchain
-IoT 
+
+IoT
+
 VR/AR 
 

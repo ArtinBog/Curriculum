@@ -25,7 +25,8 @@
 - comming soon
 
 **IoT**
-- comming soon
+- Electrical engineering 
+- Electronical engineering
 
 **VR/AR** 
 - comming soon
